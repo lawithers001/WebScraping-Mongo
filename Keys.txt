@@ -1,0 +1,5 @@
+# Twitter API Keys (tweepy keys)
+consumer_key = "QUQQfpFrw1FrZWpzNw81GhvjO"
+consumer_secret = "T8qTbz1e694HS7q5c4qe2703yrhSl4PGzKwKbBVW7eKOdecvGX"
+app_key = "949701747609448448-g34qmXE8VQyUy4jtrs5YQgCxIa2Coxe"
+app_secret = "qCvW43qSJX1f3PhE9v1g0AEGSMbHtzVjhW9s3FXBomrJ9"
